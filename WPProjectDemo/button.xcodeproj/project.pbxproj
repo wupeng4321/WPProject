@@ -7,185 +7,145 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6316747B16C74D96FF7B059C /* libPods-buttonTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 31CD409E972D32524E18BC69 /* libPods-buttonTests.a */; };
-		769B43781EF50AF700D210EF /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 769B43771EF50AF700D210EF /* BaseViewController.m */; };
-		76AA592A1EF12EF700E82769 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AA59291EF12EF700E82769 /* main.m */; };
-		76AA592D1EF12EF700E82769 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AA592C1EF12EF700E82769 /* AppDelegate.m */; };
-		76AA59301EF12EF700E82769 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AA592F1EF12EF700E82769 /* ViewController.m */; };
-		76AA59331EF12EF700E82769 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76AA59311EF12EF700E82769 /* Main.storyboard */; };
-		76AA59351EF12EF700E82769 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76AA59341EF12EF700E82769 /* Assets.xcassets */; };
-		76AA59381EF12EF700E82769 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76AA59361EF12EF700E82769 /* LaunchScreen.storyboard */; };
-		76AA59431EF12EF700E82769 /* buttonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AA59421EF12EF700E82769 /* buttonTests.m */; };
-		76AA594E1EF12EF700E82769 /* buttonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AA594D1EF12EF700E82769 /* buttonUITests.m */; };
-		76AA595D1EF13C9A00E82769 /* UIView+delay.m in Sources */ = {isa = PBXBuildFile; fileRef = 76AA595C1EF13C9A00E82769 /* UIView+delay.m */; };
-		86B40FFE4A36C111F912D2B2 /* libPods-button.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4B1365E27620A2CAFF350A0 /* libPods-button.a */; };
-		96C532814F2F5787FAB957E8 /* libPods-buttonUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DF962D25D20F95C09CE3F3C3 /* libPods-buttonUITests.a */; };
+		762CBA7F1F2D7CFC00509EB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 762CBA7E1F2D7CFC00509EB0 /* main.m */; };
+		762CBA821F2D7CFC00509EB0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 762CBA811F2D7CFC00509EB0 /* AppDelegate.m */; };
+		762CBA851F2D7CFC00509EB0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 762CBA841F2D7CFC00509EB0 /* ViewController.m */; };
+		762CBA881F2D7CFC00509EB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 762CBA861F2D7CFC00509EB0 /* Main.storyboard */; };
+		762CBA8A1F2D7CFC00509EB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 762CBA891F2D7CFC00509EB0 /* Assets.xcassets */; };
+		762CBA8D1F2D7CFC00509EB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 762CBA8B1F2D7CFC00509EB0 /* LaunchScreen.storyboard */; };
+		762CBA981F2D7CFC00509EB0 /* buttonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 762CBA971F2D7CFC00509EB0 /* buttonTests.m */; };
+		762CBAA31F2D7CFC00509EB0 /* buttonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 762CBAA21F2D7CFC00509EB0 /* buttonUITests.m */; };
+		762CBAB21F2D7D2C00509EB0 /* UIView+delay.m in Sources */ = {isa = PBXBuildFile; fileRef = 762CBAB11F2D7D2C00509EB0 /* UIView+delay.m */; };
+		762CBAB51F2D7D3200509EB0 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 762CBAB41F2D7D3200509EB0 /* BaseViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		76AA593F1EF12EF700E82769 /* PBXContainerItemProxy */ = {
+		762CBA941F2D7CFC00509EB0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 76AA591D1EF12EF700E82769 /* Project object */;
+			containerPortal = 762CBA721F2D7CFC00509EB0 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 76AA59241EF12EF700E82769;
+			remoteGlobalIDString = 762CBA791F2D7CFC00509EB0;
 			remoteInfo = button;
 		};
-		76AA594A1EF12EF700E82769 /* PBXContainerItemProxy */ = {
+		762CBA9F1F2D7CFC00509EB0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 76AA591D1EF12EF700E82769 /* Project object */;
+			containerPortal = 762CBA721F2D7CFC00509EB0 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 76AA59241EF12EF700E82769;
+			remoteGlobalIDString = 762CBA791F2D7CFC00509EB0;
 			remoteInfo = button;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		31CD409E972D32524E18BC69 /* libPods-buttonTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-buttonTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4A8DC24F5214636A0014D581 /* Pods-buttonTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-buttonTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-buttonTests/Pods-buttonTests.release.xcconfig"; sourceTree = "<group>"; };
-		5AAEAA0120731C6D0E131C68 /* Pods-buttonTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-buttonTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-buttonTests/Pods-buttonTests.debug.xcconfig"; sourceTree = "<group>"; };
-		769B43761EF50AF700D210EF /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
-		769B43771EF50AF700D210EF /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
-		76AA59251EF12EF700E82769 /* button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = button.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		76AA59291EF12EF700E82769 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		76AA592B1EF12EF700E82769 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		76AA592C1EF12EF700E82769 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		76AA592E1EF12EF700E82769 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		76AA592F1EF12EF700E82769 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		76AA59321EF12EF700E82769 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		76AA59341EF12EF700E82769 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		76AA59371EF12EF700E82769 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		76AA59391EF12EF700E82769 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		76AA593E1EF12EF700E82769 /* buttonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = buttonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		76AA59421EF12EF700E82769 /* buttonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = buttonTests.m; sourceTree = "<group>"; };
-		76AA59441EF12EF700E82769 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		76AA59491EF12EF700E82769 /* buttonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = buttonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		76AA594D1EF12EF700E82769 /* buttonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = buttonUITests.m; sourceTree = "<group>"; };
-		76AA594F1EF12EF700E82769 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		76AA595B1EF13C9A00E82769 /* UIView+delay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+delay.h"; sourceTree = "<group>"; };
-		76AA595C1EF13C9A00E82769 /* UIView+delay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+delay.m"; sourceTree = "<group>"; };
-		90B58F5C2E190E5C42B6F425 /* Pods-button.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-button.release.xcconfig"; path = "Pods/Target Support Files/Pods-button/Pods-button.release.xcconfig"; sourceTree = "<group>"; };
-		9EBC4C1CDECC731B924CE2C6 /* Pods-buttonUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-buttonUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-buttonUITests/Pods-buttonUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		DCF3E52E6387F4844DE2A609 /* Pods-button.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-button.debug.xcconfig"; path = "Pods/Target Support Files/Pods-button/Pods-button.debug.xcconfig"; sourceTree = "<group>"; };
-		DD94403984C0EE2942B21E01 /* Pods-buttonUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-buttonUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-buttonUITests/Pods-buttonUITests.release.xcconfig"; sourceTree = "<group>"; };
-		DF962D25D20F95C09CE3F3C3 /* libPods-buttonUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-buttonUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E4B1365E27620A2CAFF350A0 /* libPods-button.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-button.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		762CBA7A1F2D7CFC00509EB0 /* button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = button.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		762CBA7E1F2D7CFC00509EB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		762CBA801F2D7CFC00509EB0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		762CBA811F2D7CFC00509EB0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		762CBA831F2D7CFC00509EB0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		762CBA841F2D7CFC00509EB0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		762CBA871F2D7CFC00509EB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		762CBA891F2D7CFC00509EB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		762CBA8C1F2D7CFC00509EB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		762CBA8E1F2D7CFC00509EB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		762CBA931F2D7CFC00509EB0 /* buttonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = buttonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		762CBA971F2D7CFC00509EB0 /* buttonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = buttonTests.m; sourceTree = "<group>"; };
+		762CBA991F2D7CFC00509EB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		762CBA9E1F2D7CFC00509EB0 /* buttonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = buttonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		762CBAA21F2D7CFC00509EB0 /* buttonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = buttonUITests.m; sourceTree = "<group>"; };
+		762CBAA41F2D7CFC00509EB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		762CBAB01F2D7D2C00509EB0 /* UIView+delay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+delay.h"; sourceTree = "<group>"; };
+		762CBAB11F2D7D2C00509EB0 /* UIView+delay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+delay.m"; sourceTree = "<group>"; };
+		762CBAB31F2D7D3200509EB0 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		762CBAB41F2D7D3200509EB0 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		76AA59221EF12EF700E82769 /* Frameworks */ = {
+		762CBA771F2D7CFC00509EB0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				86B40FFE4A36C111F912D2B2 /* libPods-button.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		76AA593B1EF12EF700E82769 /* Frameworks */ = {
+		762CBA901F2D7CFC00509EB0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6316747B16C74D96FF7B059C /* libPods-buttonTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		76AA59461EF12EF700E82769 /* Frameworks */ = {
+		762CBA9B1F2D7CFC00509EB0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96C532814F2F5787FAB957E8 /* libPods-buttonUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		17B2A53D4A72DC0D3B99360D /* Pods */ = {
+		762CBA711F2D7CFC00509EB0 = {
 			isa = PBXGroup;
 			children = (
-				DCF3E52E6387F4844DE2A609 /* Pods-button.debug.xcconfig */,
-				90B58F5C2E190E5C42B6F425 /* Pods-button.release.xcconfig */,
-				5AAEAA0120731C6D0E131C68 /* Pods-buttonTests.debug.xcconfig */,
-				4A8DC24F5214636A0014D581 /* Pods-buttonTests.release.xcconfig */,
-				9EBC4C1CDECC731B924CE2C6 /* Pods-buttonUITests.debug.xcconfig */,
-				DD94403984C0EE2942B21E01 /* Pods-buttonUITests.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
-		69B91651D2BC211C6D42CBD3 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				E4B1365E27620A2CAFF350A0 /* libPods-button.a */,
-				31CD409E972D32524E18BC69 /* libPods-buttonTests.a */,
-				DF962D25D20F95C09CE3F3C3 /* libPods-buttonUITests.a */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		76AA591C1EF12EF700E82769 = {
-			isa = PBXGroup;
-			children = (
-				76AA59271EF12EF700E82769 /* button */,
-				76AA59411EF12EF700E82769 /* buttonTests */,
-				76AA594C1EF12EF700E82769 /* buttonUITests */,
-				76AA59261EF12EF700E82769 /* Products */,
-				17B2A53D4A72DC0D3B99360D /* Pods */,
-				69B91651D2BC211C6D42CBD3 /* Frameworks */,
+				762CBA7C1F2D7CFC00509EB0 /* button */,
+				762CBA961F2D7CFC00509EB0 /* buttonTests */,
+				762CBAA11F2D7CFC00509EB0 /* buttonUITests */,
+				762CBA7B1F2D7CFC00509EB0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		76AA59261EF12EF700E82769 /* Products */ = {
+		762CBA7B1F2D7CFC00509EB0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				76AA59251EF12EF700E82769 /* button.app */,
-				76AA593E1EF12EF700E82769 /* buttonTests.xctest */,
-				76AA59491EF12EF700E82769 /* buttonUITests.xctest */,
+				762CBA7A1F2D7CFC00509EB0 /* button.app */,
+				762CBA931F2D7CFC00509EB0 /* buttonTests.xctest */,
+				762CBA9E1F2D7CFC00509EB0 /* buttonUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		76AA59271EF12EF700E82769 /* button */ = {
+		762CBA7C1F2D7CFC00509EB0 /* button */ = {
 			isa = PBXGroup;
 			children = (
-				76AA592B1EF12EF700E82769 /* AppDelegate.h */,
-				76AA592C1EF12EF700E82769 /* AppDelegate.m */,
-				769B43761EF50AF700D210EF /* BaseViewController.h */,
-				769B43771EF50AF700D210EF /* BaseViewController.m */,
-				76AA592E1EF12EF700E82769 /* ViewController.h */,
-				76AA592F1EF12EF700E82769 /* ViewController.m */,
-				76AA595B1EF13C9A00E82769 /* UIView+delay.h */,
-				76AA595C1EF13C9A00E82769 /* UIView+delay.m */,
-				76AA59311EF12EF700E82769 /* Main.storyboard */,
-				76AA59341EF12EF700E82769 /* Assets.xcassets */,
-				76AA59361EF12EF700E82769 /* LaunchScreen.storyboard */,
-				76AA59391EF12EF700E82769 /* Info.plist */,
-				76AA59281EF12EF700E82769 /* Supporting Files */,
+				762CBA801F2D7CFC00509EB0 /* AppDelegate.h */,
+				762CBA811F2D7CFC00509EB0 /* AppDelegate.m */,
+				762CBAB01F2D7D2C00509EB0 /* UIView+delay.h */,
+				762CBAB11F2D7D2C00509EB0 /* UIView+delay.m */,
+				762CBAB31F2D7D3200509EB0 /* BaseViewController.h */,
+				762CBAB41F2D7D3200509EB0 /* BaseViewController.m */,
+				762CBA831F2D7CFC00509EB0 /* ViewController.h */,
+				762CBA841F2D7CFC00509EB0 /* ViewController.m */,
+				762CBA861F2D7CFC00509EB0 /* Main.storyboard */,
+				762CBA891F2D7CFC00509EB0 /* Assets.xcassets */,
+				762CBA8B1F2D7CFC00509EB0 /* LaunchScreen.storyboard */,
+				762CBA8E1F2D7CFC00509EB0 /* Info.plist */,
+				762CBA7D1F2D7CFC00509EB0 /* Supporting Files */,
 			);
 			path = button;
 			sourceTree = "<group>";
 		};
-		76AA59281EF12EF700E82769 /* Supporting Files */ = {
+		762CBA7D1F2D7CFC00509EB0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				76AA59291EF12EF700E82769 /* main.m */,
+				762CBA7E1F2D7CFC00509EB0 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		76AA59411EF12EF700E82769 /* buttonTests */ = {
+		762CBA961F2D7CFC00509EB0 /* buttonTests */ = {
 			isa = PBXGroup;
 			children = (
-				76AA59421EF12EF700E82769 /* buttonTests.m */,
-				76AA59441EF12EF700E82769 /* Info.plist */,
+				762CBA971F2D7CFC00509EB0 /* buttonTests.m */,
+				762CBA991F2D7CFC00509EB0 /* Info.plist */,
 			);
 			path = buttonTests;
 			sourceTree = "<group>";
 		};
-		76AA594C1EF12EF700E82769 /* buttonUITests */ = {
+		762CBAA11F2D7CFC00509EB0 /* buttonUITests */ = {
 			isa = PBXGroup;
 			children = (
-				76AA594D1EF12EF700E82769 /* buttonUITests.m */,
-				76AA594F1EF12EF700E82769 /* Info.plist */,
+				762CBAA21F2D7CFC00509EB0 /* buttonUITests.m */,
+				762CBAA41F2D7CFC00509EB0 /* Info.plist */,
 			);
 			path = buttonUITests;
 			sourceTree = "<group>";
@@ -193,16 +153,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		76AA59241EF12EF700E82769 /* button */ = {
+		762CBA791F2D7CFC00509EB0 /* button */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 76AA59521EF12EF700E82769 /* Build configuration list for PBXNativeTarget "button" */;
+			buildConfigurationList = 762CBAA71F2D7CFC00509EB0 /* Build configuration list for PBXNativeTarget "button" */;
 			buildPhases = (
-				55C6753B3972D4EC27BD4745 /* [CP] Check Pods Manifest.lock */,
-				76AA59211EF12EF700E82769 /* Sources */,
-				76AA59221EF12EF700E82769 /* Frameworks */,
-				76AA59231EF12EF700E82769 /* Resources */,
-				97249104C70DED274DAAF676 /* [CP] Embed Pods Frameworks */,
-				AF59085ED83189C19452AF41 /* [CP] Copy Pods Resources */,
+				762CBA761F2D7CFC00509EB0 /* Sources */,
+				762CBA771F2D7CFC00509EB0 /* Frameworks */,
+				762CBA781F2D7CFC00509EB0 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -210,77 +167,71 @@
 			);
 			name = button;
 			productName = button;
-			productReference = 76AA59251EF12EF700E82769 /* button.app */;
+			productReference = 762CBA7A1F2D7CFC00509EB0 /* button.app */;
 			productType = "com.apple.product-type.application";
 		};
-		76AA593D1EF12EF700E82769 /* buttonTests */ = {
+		762CBA921F2D7CFC00509EB0 /* buttonTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 76AA59551EF12EF700E82769 /* Build configuration list for PBXNativeTarget "buttonTests" */;
+			buildConfigurationList = 762CBAAA1F2D7CFC00509EB0 /* Build configuration list for PBXNativeTarget "buttonTests" */;
 			buildPhases = (
-				D1608F3DACEB7E9C8FECE008 /* [CP] Check Pods Manifest.lock */,
-				76AA593A1EF12EF700E82769 /* Sources */,
-				76AA593B1EF12EF700E82769 /* Frameworks */,
-				76AA593C1EF12EF700E82769 /* Resources */,
-				FCB12E87A174CABD3180487D /* [CP] Embed Pods Frameworks */,
-				AC5177814CB725466F4BE095 /* [CP] Copy Pods Resources */,
+				762CBA8F1F2D7CFC00509EB0 /* Sources */,
+				762CBA901F2D7CFC00509EB0 /* Frameworks */,
+				762CBA911F2D7CFC00509EB0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				76AA59401EF12EF700E82769 /* PBXTargetDependency */,
+				762CBA951F2D7CFC00509EB0 /* PBXTargetDependency */,
 			);
 			name = buttonTests;
 			productName = buttonTests;
-			productReference = 76AA593E1EF12EF700E82769 /* buttonTests.xctest */;
+			productReference = 762CBA931F2D7CFC00509EB0 /* buttonTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		76AA59481EF12EF700E82769 /* buttonUITests */ = {
+		762CBA9D1F2D7CFC00509EB0 /* buttonUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 76AA59581EF12EF700E82769 /* Build configuration list for PBXNativeTarget "buttonUITests" */;
+			buildConfigurationList = 762CBAAD1F2D7CFC00509EB0 /* Build configuration list for PBXNativeTarget "buttonUITests" */;
 			buildPhases = (
-				A638FE8A2F1CA7512E363408 /* [CP] Check Pods Manifest.lock */,
-				76AA59451EF12EF700E82769 /* Sources */,
-				76AA59461EF12EF700E82769 /* Frameworks */,
-				76AA59471EF12EF700E82769 /* Resources */,
-				4D6A02207B1EE315B1B06853 /* [CP] Embed Pods Frameworks */,
-				09F2BDF2936A059BDE8B7EFE /* [CP] Copy Pods Resources */,
+				762CBA9A1F2D7CFC00509EB0 /* Sources */,
+				762CBA9B1F2D7CFC00509EB0 /* Frameworks */,
+				762CBA9C1F2D7CFC00509EB0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				76AA594B1EF12EF700E82769 /* PBXTargetDependency */,
+				762CBAA01F2D7CFC00509EB0 /* PBXTargetDependency */,
 			);
 			name = buttonUITests;
 			productName = buttonUITests;
-			productReference = 76AA59491EF12EF700E82769 /* buttonUITests.xctest */;
+			productReference = 762CBA9E1F2D7CFC00509EB0 /* buttonUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		76AA591D1EF12EF700E82769 /* Project object */ = {
+		762CBA721F2D7CFC00509EB0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = wupeng;
 				TargetAttributes = {
-					76AA59241EF12EF700E82769 = {
+					762CBA791F2D7CFC00509EB0 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
 					};
-					76AA593D1EF12EF700E82769 = {
+					762CBA921F2D7CFC00509EB0 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 76AA59241EF12EF700E82769;
+						TestTargetID = 762CBA791F2D7CFC00509EB0;
 					};
-					76AA59481EF12EF700E82769 = {
+					762CBA9D1F2D7CFC00509EB0 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 76AA59241EF12EF700E82769;
+						TestTargetID = 762CBA791F2D7CFC00509EB0;
 					};
 				};
 			};
-			buildConfigurationList = 76AA59201EF12EF700E82769 /* Build configuration list for PBXProject "button" */;
+			buildConfigurationList = 762CBA751F2D7CFC00509EB0 /* Build configuration list for PBXProject "button" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -288,37 +239,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 76AA591C1EF12EF700E82769;
-			productRefGroup = 76AA59261EF12EF700E82769 /* Products */;
+			mainGroup = 762CBA711F2D7CFC00509EB0;
+			productRefGroup = 762CBA7B1F2D7CFC00509EB0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				76AA59241EF12EF700E82769 /* button */,
-				76AA593D1EF12EF700E82769 /* buttonTests */,
-				76AA59481EF12EF700E82769 /* buttonUITests */,
+				762CBA791F2D7CFC00509EB0 /* button */,
+				762CBA921F2D7CFC00509EB0 /* buttonTests */,
+				762CBA9D1F2D7CFC00509EB0 /* buttonUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		76AA59231EF12EF700E82769 /* Resources */ = {
+		762CBA781F2D7CFC00509EB0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76AA59381EF12EF700E82769 /* LaunchScreen.storyboard in Resources */,
-				76AA59351EF12EF700E82769 /* Assets.xcassets in Resources */,
-				76AA59331EF12EF700E82769 /* Main.storyboard in Resources */,
+				762CBA8D1F2D7CFC00509EB0 /* LaunchScreen.storyboard in Resources */,
+				762CBA8A1F2D7CFC00509EB0 /* Assets.xcassets in Resources */,
+				762CBA881F2D7CFC00509EB0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		76AA593C1EF12EF700E82769 /* Resources */ = {
+		762CBA911F2D7CFC00509EB0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		76AA59471EF12EF700E82769 /* Resources */ = {
+		762CBA9C1F2D7CFC00509EB0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -327,201 +278,63 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXShellScriptBuildPhase section */
-		09F2BDF2936A059BDE8B7EFE /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-buttonUITests/Pods-buttonUITests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		4D6A02207B1EE315B1B06853 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-buttonUITests/Pods-buttonUITests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		55C6753B3972D4EC27BD4745 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		97249104C70DED274DAAF676 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-button/Pods-button-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A638FE8A2F1CA7512E363408 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		AC5177814CB725466F4BE095 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-buttonTests/Pods-buttonTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		AF59085ED83189C19452AF41 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-button/Pods-button-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D1608F3DACEB7E9C8FECE008 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		FCB12E87A174CABD3180487D /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-buttonTests/Pods-buttonTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		76AA59211EF12EF700E82769 /* Sources */ = {
+		762CBA761F2D7CFC00509EB0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76AA595D1EF13C9A00E82769 /* UIView+delay.m in Sources */,
-				769B43781EF50AF700D210EF /* BaseViewController.m in Sources */,
-				76AA59301EF12EF700E82769 /* ViewController.m in Sources */,
-				76AA592D1EF12EF700E82769 /* AppDelegate.m in Sources */,
-				76AA592A1EF12EF700E82769 /* main.m in Sources */,
+				762CBAB21F2D7D2C00509EB0 /* UIView+delay.m in Sources */,
+				762CBAB51F2D7D3200509EB0 /* BaseViewController.m in Sources */,
+				762CBA851F2D7CFC00509EB0 /* ViewController.m in Sources */,
+				762CBA821F2D7CFC00509EB0 /* AppDelegate.m in Sources */,
+				762CBA7F1F2D7CFC00509EB0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		76AA593A1EF12EF700E82769 /* Sources */ = {
+		762CBA8F1F2D7CFC00509EB0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76AA59431EF12EF700E82769 /* buttonTests.m in Sources */,
+				762CBA981F2D7CFC00509EB0 /* buttonTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		76AA59451EF12EF700E82769 /* Sources */ = {
+		762CBA9A1F2D7CFC00509EB0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76AA594E1EF12EF700E82769 /* buttonUITests.m in Sources */,
+				762CBAA31F2D7CFC00509EB0 /* buttonUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		76AA59401EF12EF700E82769 /* PBXTargetDependency */ = {
+		762CBA951F2D7CFC00509EB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 76AA59241EF12EF700E82769 /* button */;
-			targetProxy = 76AA593F1EF12EF700E82769 /* PBXContainerItemProxy */;
+			target = 762CBA791F2D7CFC00509EB0 /* button */;
+			targetProxy = 762CBA941F2D7CFC00509EB0 /* PBXContainerItemProxy */;
 		};
-		76AA594B1EF12EF700E82769 /* PBXTargetDependency */ = {
+		762CBAA01F2D7CFC00509EB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 76AA59241EF12EF700E82769 /* button */;
-			targetProxy = 76AA594A1EF12EF700E82769 /* PBXContainerItemProxy */;
+			target = 762CBA791F2D7CFC00509EB0 /* button */;
+			targetProxy = 762CBA9F1F2D7CFC00509EB0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		76AA59311EF12EF700E82769 /* Main.storyboard */ = {
+		762CBA861F2D7CFC00509EB0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				76AA59321EF12EF700E82769 /* Base */,
+				762CBA871F2D7CFC00509EB0 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		76AA59361EF12EF700E82769 /* LaunchScreen.storyboard */ = {
+		762CBA8B1F2D7CFC00509EB0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				76AA59371EF12EF700E82769 /* Base */,
+				762CBA8C1F2D7CFC00509EB0 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -529,7 +342,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		76AA59501EF12EF700E82769 /* Debug */ = {
+		762CBAA51F2D7CFC00509EB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -576,7 +389,7 @@
 			};
 			name = Debug;
 		};
-		76AA59511EF12EF700E82769 /* Release */ = {
+		762CBAA61F2D7CFC00509EB0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -617,9 +430,8 @@
 			};
 			name = Release;
 		};
-		76AA59531EF12EF700E82769 /* Debug */ = {
+		762CBAA81F2D7CFC00509EB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DCF3E52E6387F4844DE2A609 /* Pods-button.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = button/Info.plist;
@@ -629,9 +441,8 @@
 			};
 			name = Debug;
 		};
-		76AA59541EF12EF700E82769 /* Release */ = {
+		762CBAA91F2D7CFC00509EB0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90B58F5C2E190E5C42B6F425 /* Pods-button.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = button/Info.plist;
@@ -641,9 +452,8 @@
 			};
 			name = Release;
 		};
-		76AA59561EF12EF700E82769 /* Debug */ = {
+		762CBAAB1F2D7CFC00509EB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5AAEAA0120731C6D0E131C68 /* Pods-buttonTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = buttonTests/Info.plist;
@@ -654,9 +464,8 @@
 			};
 			name = Debug;
 		};
-		76AA59571EF12EF700E82769 /* Release */ = {
+		762CBAAC1F2D7CFC00509EB0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4A8DC24F5214636A0014D581 /* Pods-buttonTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = buttonTests/Info.plist;
@@ -667,9 +476,8 @@
 			};
 			name = Release;
 		};
-		76AA59591EF12EF700E82769 /* Debug */ = {
+		762CBAAE1F2D7CFC00509EB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9EBC4C1CDECC731B924CE2C6 /* Pods-buttonUITests.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = buttonUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -679,9 +487,8 @@
 			};
 			name = Debug;
 		};
-		76AA595A1EF12EF700E82769 /* Release */ = {
+		762CBAAF1F2D7CFC00509EB0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DD94403984C0EE2942B21E01 /* Pods-buttonUITests.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = buttonUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -694,43 +501,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		76AA59201EF12EF700E82769 /* Build configuration list for PBXProject "button" */ = {
+		762CBA751F2D7CFC00509EB0 /* Build configuration list for PBXProject "button" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76AA59501EF12EF700E82769 /* Debug */,
-				76AA59511EF12EF700E82769 /* Release */,
+				762CBAA51F2D7CFC00509EB0 /* Debug */,
+				762CBAA61F2D7CFC00509EB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		76AA59521EF12EF700E82769 /* Build configuration list for PBXNativeTarget "button" */ = {
+		762CBAA71F2D7CFC00509EB0 /* Build configuration list for PBXNativeTarget "button" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76AA59531EF12EF700E82769 /* Debug */,
-				76AA59541EF12EF700E82769 /* Release */,
+				762CBAA81F2D7CFC00509EB0 /* Debug */,
+				762CBAA91F2D7CFC00509EB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
-		76AA59551EF12EF700E82769 /* Build configuration list for PBXNativeTarget "buttonTests" */ = {
+		762CBAAA1F2D7CFC00509EB0 /* Build configuration list for PBXNativeTarget "buttonTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76AA59561EF12EF700E82769 /* Debug */,
-				76AA59571EF12EF700E82769 /* Release */,
+				762CBAAB1F2D7CFC00509EB0 /* Debug */,
+				762CBAAC1F2D7CFC00509EB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
-		76AA59581EF12EF700E82769 /* Build configuration list for PBXNativeTarget "buttonUITests" */ = {
+		762CBAAD1F2D7CFC00509EB0 /* Build configuration list for PBXNativeTarget "buttonUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76AA59591EF12EF700E82769 /* Debug */,
-				76AA595A1EF12EF700E82769 /* Release */,
+				762CBAAE1F2D7CFC00509EB0 /* Debug */,
+				762CBAAF1F2D7CFC00509EB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 76AA591D1EF12EF700E82769 /* Project object */;
+	rootObject = 762CBA721F2D7CFC00509EB0 /* Project object */;
 }
