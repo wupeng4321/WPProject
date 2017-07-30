@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <BlocksKit+UIKit.h>
 
 @interface UIView (delay)
 
