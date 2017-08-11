@@ -1,18 +1,18 @@
 //
-//  buttonUITests.m
-//  buttonUITests
+//  NSRunloopUITests.m
+//  NSRunloopUITests
 //
-//  Created by wupeng on 2017/7/30.
+//  Created by apple on 2017/8/4.
 //  Copyright © 2017年 wupeng. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface buttonUITests : XCTestCase
+@interface NSRunloopUITests : XCTestCase
 
 @end
 
-@implementation buttonUITests
+@implementation NSRunloopUITests
 
 - (void)setUp {
     [super setUp];
