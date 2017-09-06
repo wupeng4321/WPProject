@@ -3,7 +3,7 @@
 //  WPProject
 //
 //  Created by wupeng on 2016/9/1.
-//  Copyright © 2017年 wupeng. All rights reserved.
+//  Copyright © 2016年 wupeng. All rights reserved.
 //
 
 #ifndef Header_h
@@ -50,17 +50,17 @@
 #define kColor(r, g, b)                  [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
 #define kColorA(r, g, b ,a)              [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(a)]
 
-#define kColorFromRGB(rgbValue)        [UIColor \
+#define kColorFromRGB(rgbValue)         [UIColor \
                                         colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 \
                                         green:((float)((rgbValue & 0xFF00) >> 8))/255.0 \
                                         blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
 
-#define kColorFromRGBA(rgbValue,a)     [UIColor \
+#define kColorFromRGBA(rgbValue,a)      [UIColor \
                                             colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 \
                                             green:((float)((rgbValue & 0xFF00) >> 8))/255.0 \
                                             blue:((float)(rgbValue & 0xFF))/255.0 alpha:(a)]
 
-#define kRandomColor                     [UIColor \
+#define kRandomColor                    [UIColor \
                                             colorWithRed:arc4random_uniform(256)/255.0 \
                                             green:arc4random_uniform(256)/255.0 \
                                             blue:arc4random_uniform(256)/255.0 alpha:1.0]
@@ -75,7 +75,7 @@
 
 #define kDeviceScaleFactor              (kScreenWidth/375.0)
 
-#define kKeyWindow                     [UIApplication sharedApplication].keyWindow
+#define kKeyWindow                      [UIApplication sharedApplication].keyWindow
 
 #define iPhone4S                        ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? \
                                             CGSizeEqualToSize(CGSizeMake(640, 960), \
